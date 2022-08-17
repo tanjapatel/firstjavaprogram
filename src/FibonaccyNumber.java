@@ -8,7 +8,7 @@ public class FibonaccyNumber {
         int a = 0;
         int b = 1;
         int c;
-        int z =10;
+        int z =20;
         System.out.print(a +" " + b);
         for ( int i =1;i<=z;i++){
             c= a+b;
